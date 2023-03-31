@@ -33,6 +33,7 @@ function preloadHeroImage(picture) {
   document.head.append(link);
 }
 
+
 /**
  * Builds hero block and prepends to main in a new section.
  * @param {Element} main The container element
